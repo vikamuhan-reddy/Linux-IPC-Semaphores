@@ -106,10 +106,8 @@ if(NUM_LOOPS>=10)    {
 
 
 ## OUTPUT
-![WhatsApp Image 2024-05-01 at 19 41 21_5dcda303](https://github.com/vikamuhan-reddy/Linux-IPC-Semaphores/assets/144928933/525777cb-3552-4efe-80f2-0ee6f9822e59)
-
-![WhatsApp Image 2024-05-01 at 19 42 03_8b8c9149](https://github.com/vikamuhan-reddy/Linux-IPC-Semaphores/assets/144928933/4efce7a4-a730-4f91-95be-2cd7c78fa121)
-
+![image](./exp5os1.jpg)
+![image](./exp5os2.jpg)
 
 
 
